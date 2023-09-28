@@ -1,0 +1,44 @@
+.b{
+    height: 100px;
+    width: 1520px;
+    background-color: rgb(28, 11, 11);
+    position: relative;
+    bottom: px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+}
+img{
+    height: 50px;
+    width: 60px;
+}
+body{
+    background-color: rgb(122, 19, 170);
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.bb{
+    background-color: rgb(168, 175, 175);
+    border-radius: 4% ;
+    width: 280px;
+}
+.dd{
+    background-color: rgb(168, 175, 175);
+    border-radius: 4% ;
+    width: 280px;
+    
+}
+.ff{
+    background-color: rgb(168, 175, 175);
+    border-radius: 4% ;
+    width: 280px;
+    
+}
